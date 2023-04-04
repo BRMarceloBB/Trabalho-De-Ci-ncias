@@ -1,0 +1,82 @@
+#video{
+    width:100%;
+    height:680px;
+    border: none;
+}
+
+.viagem_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.viagem_mainDiv img
+{
+  width: 100%;
+}
+
+.viagem_mainDiv h5 , .travel_mainDiv p
+{
+margin: 20px;
+}
+
+
+
+.filme_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filme_head i
+{
+float: right;
+}
+
+.conquistas_text span
+{
+color: orange;
+}
+
+
+.novidade
+{
+    margin-bottom: 20px;
+}
+
+#contato iframe
+{
+    width: 100%;
+}
+
+#center {
+    text-align: center;
+}
+
+.coFun {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.vantagens{
+    width: 40%;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: top;
+    background-color: lightgreen;
+    border-radius: 10%;
+}
+
+.desvantagens {
+    width: 40%;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #e52d27;
+    border-radius: 10%;
+}
+
+body {
+    text-align: center;
+}
